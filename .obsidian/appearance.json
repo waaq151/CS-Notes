@@ -3,8 +3,8 @@
   "theme": "obsidian",
   "cssTheme": "",
   "textFontFamily": "黑体,等线,宋体,微软雅黑",
-  "monospaceFontFamily": "Arial,Times New Roman,微软雅黑",
+  "monospaceFontFamily": "宋体,幼圆,等线,Arial,微软雅黑",
   "nativeMenus": false,
   "interfaceFontFamily": "微软雅黑",
-  "baseFontSize": 17
+  "baseFontSize": 19
 }
