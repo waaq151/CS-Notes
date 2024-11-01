@@ -1,7 +1,21 @@
 {
-  "promptDelete": false,
-  "trashOption": "system",
+  "foldIndent": true,
+  "foldHeading": true,
+  "readableLineLength": true,
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": false,
+  "livePreview": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
   "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "showLineNumber": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "promptDelete": false,
+  "uriCallbacks": true,
+  "newLinkFormat": "relative"
 }

@@ -1,10 +1,17 @@
 {
-  "accentColor": "",
+  "baseFontSize": 17,
+  "cssTheme": "Everforest",
   "theme": "obsidian",
-  "cssTheme": "",
-  "textFontFamily": "黑体,等线,宋体,微软雅黑",
-  "monospaceFontFamily": "宋体,幼圆,等线,Arial,微软雅黑",
-  "nativeMenus": false,
-  "interfaceFontFamily": "微软雅黑",
-  "baseFontSize": 19
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "【卡片视图】zettelkasten",
+    "【图标】checkbox",
+    "【自定义】表格样式TableStyles",
+    "【自定义】多彩进度条",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【图标】iconfont",
+    "custom-admonitions.c9c6cb",
+    "【卡片视图】cards"
+  ],
+  "nativeMenus": false
 }
