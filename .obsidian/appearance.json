@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "",
-  "textFontFamily": "新宋体,微软雅黑",
-  "monospaceFontFamily": "Times New Roman,微软雅黑",
+  "textFontFamily": "黑体,等线,宋体,微软雅黑",
+  "monospaceFontFamily": "Arial,Times New Roman,微软雅黑",
   "nativeMenus": false,
-  "interfaceFontFamily": "微软雅黑"
+  "interfaceFontFamily": "微软雅黑",
+  "baseFontSize": 17
 }
